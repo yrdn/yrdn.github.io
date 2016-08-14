@@ -7,3 +7,9 @@ body {
   font: 16px Helvetica, sans-serif;
   background: #f4f4f4;
 }
+
+img.avatar {
+  width: 200px;
+  opacity: 0.2;
+  position: absolute;
+}
